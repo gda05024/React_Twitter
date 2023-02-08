@@ -1,0 +1,19 @@
+{
+  "name": "react-twitter-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gda05024/React_Twitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gda05024/React_Twitter/issues"
+  },
+  "homepage": "https://github.com/gda05024/React_Twitter#readme"
+}
